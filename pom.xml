@@ -5,6 +5,7 @@
 	<version>7.0-SNAPSHOT</version>
 	<name>JNLP Definitions</name>
 	<description>Interfaces of JNLP</description>
+	<url>http://www.massisframework.com</url>
 	<properties>
 		<project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
 		<maven.compiler.source>1.7</maven.compiler.source>
