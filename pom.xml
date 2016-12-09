@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.massisframework</groupId>
 	<artifactId>jnlp-definitions</artifactId>
-	<version>7.0-SNAPSHOT</version>
+	<version>7.0</version>
 	<name>JNLP Definitions</name>
 	<description>Interfaces of JNLP</description>
 	<url>http://www.massisframework.com</url>
@@ -23,7 +23,7 @@
 		<connection>scm:git:git@github.com:rpax/jnlp-definitions</connection>
 		<url>scm:git:git@github.com:rpax/jnlp-definitions</url>
 		<developerConnection>scm:git:git@github.com:rpax/jnlp-definitions</developerConnection>
-		<tag>HEAD</tag>
+		<tag>jnlp-definitions-7.0</tag>
 	</scm>
 	<distributionManagement>
 		<snapshotRepository>
